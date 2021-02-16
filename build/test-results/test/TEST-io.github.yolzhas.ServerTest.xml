@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.yolzhas.ServerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-16T10:40:51" hostname="MacBookPro" time="0.05">
+  <properties/>
+  <testcase name="testServer()" classname="io.github.yolzhas.ServerTest" time="0.05"/>
+  <system-out><![CDATA[google.com ; 4444
+viled.kz ; 4444
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

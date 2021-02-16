@@ -1,0 +1,14 @@
+io/github/yolzhas/SimpleTest.java
+ io.github.yolzhas.SimpleTest
+io/github/yolzhas/GitLabTest.java
+ io.github.yolzhas.GitLabTest
+io/github/yolzhas/MobileTest.java
+ io.github.yolzhas.MobileTest
+io/github/yolzhas/ServiceTest.java
+ io.github.yolzhas.ServiceTest
+io/github/yolzhas/GitHubTest.java
+ io.github.yolzhas.GitHubTest
+io/github/yolzhas/ArrayTest.java
+ io.github.yolzhas.ArrayTest
+io/github/yolzhas/ServerTest.java
+ io.github.yolzhas.ServerTest
